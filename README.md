@@ -17,20 +17,12 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,js,python,java" />
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
   <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
-
----
-
-## 📌 Dự án nổi bật
-- 🔹 [**DoAn_Web1**](https://github.com/HoangTran0410/DoAn_Web1) – Website thương mại điện tử cơ bản + kiểm thử Katalon  
-- 🔹 [**Unity Tetris Game**](https://github.com/tuananh4523/unity-tetris-tutorial-main) – Game Tetris bằng Unity C#  
-- 🔹 [**Roadmap Projects**](https://github.com/tuananh4523/roadmap.sh-projects) – Thực hành dự án nhỏ theo roadmap.sh  
-- 🔹 [**Portfolio Website**](https://github.com/tuananh4523/portfolio) – Website cá nhân (HTML/CSS/JS)  
 
 ---
 
