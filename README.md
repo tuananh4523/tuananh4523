@@ -28,10 +28,18 @@
 ---
 
 ## 📊 Thống kê GitHub
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=tuananh4523&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuananh4523&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-stats-extended.vercel.app/api?username=tuananh4523&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="420" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuananh4523&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="320" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
