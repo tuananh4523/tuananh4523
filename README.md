@@ -1,25 +1,26 @@
 <!-- Banner / Welcome -->
 <h1 align="center">Xin chào 👋, mình là Tuấn Anh</h1>
-<h3 align="center">💻 Lập trình viên đam mê Web Development & Testing</h3>
+<h3 align="center">💻 Lập trình viên đam mê Web Development, Mobile & Full-stack</h3>
 
 ---
 
 ## 👨‍🎓 Giới thiệu nhanh
 - 🎓 Sinh viên năm 4 **Công nghệ Thông tin** – Đại học Mỏ - Địa chất (HUMG)  
-- 💡 Quan tâm đến **Web Development, React/Next.js, API, Testing Automation**  
-- 🏋️‍♂️ Ngoài lập trình, mình yêu thích **thể hình & fitness** (3-4 năm kinh nghiệm)  
-- 📫 Liên hệ: **Tuananh040523@gmail.com**  
+- 💡 Quan tâm đến **Web Development, React/Next.js, Expo/React Native, API, Testing**  
+- 🏢 Đã tham gia phát triển hệ thống giáo dục thực tế tại **Swantech** (MSA / MTA)  
+- 🏋️‍♂️ Ngoài lập trình, mình yêu thích **thể hình & fitness** (6-7 năm kinh nghiệm)  
+- 📫 Liên hệ: **tuananh040523@gmail.com**  
 
 ---
 
 ## 🚀 Kỹ năng chính
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,java" />
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,java" />
+  <!-- Frontend & Mobile -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
   <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql,mongodb,docker" />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
